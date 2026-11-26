@@ -1,16 +1,146 @@
-## Hi there 👋
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
 
-<!--
-**PrasadJagdale1939/PrasadJagdale1939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Prasad%20Jagdale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Deep%20Learning&descAlignY=60&descSize=20" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=700&lines=Training+models+%7C+Debugging+loss+curves;Python+%E2%9C%A6+ML+%E2%9C%A6+Deep+Learning;Turning+data+into+intelligence;CDAC+aspirant+%7C+Always+learning" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrasadJagdale1939&label=Profile%20Views&color=24c6dc&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/PrasadJagdale1939?style=for-the-badge&logo=github&color=302b63)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class PrasadJagdale:
+    def __init__(self):
+        self.role       = "AI / ML Enthusiast"
+        self.location   = "India 🇮🇳"
+        self.learning   = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
+        self.building   = ["ML projects", "DSA practice", "Web projects"]
+        self.currently  = "Preparing for CDAC & leveling up in AI"
+        self.fun_fact   = "I debug loss curves for fun 📉"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something intelligent 🚀")
+
+me = PrasadJagdale()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,md" />
+
+**AI / ML / Deep Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas,jupyter" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postman,anaconda" />
+
+---
+
+## 🔭 Learning Roadmap
+
+| Area | Topics | Status |
+|------|--------|--------|
+| 🐍 Python for Data | NumPy, Pandas, Matplotlib | ![](https://img.shields.io/badge/-In%20Progress-24c6dc?style=flat-square) |
+| 📊 Machine Learning | Regression, Classification, Clustering | ![](https://img.shields.io/badge/-In%20Progress-24c6dc?style=flat-square) |
+| 🧬 Deep Learning | ANN, CNN, RNN, LSTM | ![](https://img.shields.io/badge/-Next-302b63?style=flat-square) |
+| 💬 NLP | Tokenization, Transformers, LLMs | ![](https://img.shields.io/badge/-Next-302b63?style=flat-square) |
+| 👁️ Computer Vision | Image classification, Object detection | ![](https://img.shields.io/badge/-Planned-555?style=flat-square) |
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/PrasadJagdale1939/cdac-prep">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadJagdale1939&repo=cdac-prep&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/PrasadJagdale1939/Google_Colab_Practice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadJagdale1939&repo=Google_Colab_Practice&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/PrasadJagdale1939/LeetCode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadJagdale1939&repo=LeetCode&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/PrasadJagdale1939/hackerrank-solutions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadJagdale1939&repo=hackerrank-solutions&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrasadJagdale1939&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadJagdale1939&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=PrasadJagdale1939&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrasadJagdale1939&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <!-- Generated by the GitHub Action in .github/workflows/snake.yml -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasadJagdale1939/PrasadJagdale1939/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasadJagdale1939/PrasadJagdale1939/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/PrasadJagdale1939/PrasadJagdale1939/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:prasadjagdaleofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=24c6dc" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=24c6dc" /></a>
+<a href="https://www.kaggle.com/YOUR-KAGGLE-ID"><img src="https://img.shields.io/badge/Kaggle-0f0c29?style=for-the-badge&logo=kaggle&logoColor=24c6dc" /></a>
+<a href="https://leetcode.com/u/YOUR-LEETCODE-ID"><img src="https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=24c6dc" /></a>
+
+<br/><br/>
+
+> *"The best way to predict the future is to train it."* 🤖
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
